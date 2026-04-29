@@ -1,7 +1,29 @@
 <div align="center">
 <!-- Animated typing banner — replace YOUR_USERNAME with your GitHub handle -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+DhanyaChilakalapudi+%F0%9F%91%8B;AI+Developer+%7C+Builder+%7C+Open+to+oppurtunities)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hey%2C+I'm+DhanyaChilakalapudi+%F0%9F%91%8B;AI+Developer+%7C+Builder+%7C+Open+to+opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanya-chilakalapudi-848b15366" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,github,vscode,git,pycharm,gmail&perline=10" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanyachilakalapudi&show_icons=true&theme=radical" alt="Dhanya's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanyachilakalapudi&theme=radical" alt="GitHub Streak" />
+</p>
 <!-- Visitor badge + profile views -->
 ![Visitors](https://komarev.com/ghpvc/?username=Dhanyachilakalapudi&style=flat-square&color=6366f1&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Dhanyachilakalapudi?label=Followers&style=flat-square&color=6366f1)](https://github.com/DhanyaChilakalapudi)
